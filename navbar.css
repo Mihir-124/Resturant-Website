@@ -1,0 +1,40 @@
+#topNAV{
+  margin: 0px;
+}
+#topNAV li a{
+ text-decration: none;
+ display: inline;
+ float: right;
+ padding:15px;
+
+}
+ a:hover{
+  background-color: black;
+}
+
+a{
+ text-decoration: none;
+ font-family: monospace;
+ Font-size: 45px;
+ color: orange;
+}
+
+#topNAV li a:hover{
+ color: yellow;
+}
+
+#menuNav{
+  height: 100%
+    Width: 45px;
+  background-color: yellow;
+  border-right: 2px solid black;
+  margin: 0px;
+}
+
+#menuNAV li{
+  list-style: none'
+  font size-size: 15px;
+  font-family: sans-serif;;
+  color:black
+  padding: 25px;
+}
